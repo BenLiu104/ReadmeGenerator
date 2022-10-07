@@ -26,6 +26,10 @@ Run command "npm install"
 ![](./assets/step1.png)
 
 3.Readme file with file name "project-name.md" will be generated.
+
+please refer to the video for demo:
+https://youtu.be/BlpHwbnTugM
+
 ## Credits
 
 BenLiu104 : https://github.com/BenLiu104
