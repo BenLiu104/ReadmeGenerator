@@ -23,7 +23,7 @@ const questions = [
     },
     {
         message: "What are the usage",
-        type: "string",
+        type: "editor",
         name: "usage",
     },
     {
@@ -41,6 +41,16 @@ const questions = [
         message: "Please write down the test case if any.",
         type: "string",
         name: "test",
+    },
+    {
+        message: "What is your github ID?",
+        type: "string",
+        name: "github",
+    },
+    {
+        message: "What is your email?",
+        type: "string",
+        name: "email",
     }
 
 ];
